@@ -234,7 +234,7 @@ function Skills(){
                                         <HiBadgeCheck />
                                     </div>
                                     <div id='data'>
-                                        <h5>JavaScript</h5>
+                                        <h5>ML & DL Frameworks</h5>
                                         <div id='status'>
                                             <small>Intermediate</small>
                                         </div>

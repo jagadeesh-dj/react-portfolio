@@ -1,11 +1,15 @@
 import '../index.css';
 import chatbot from '../image/chatbot.webp';
-import { Link } from 'react-router-dom';
 import task from '../image/task.webp';
 import ocr from '../image/ocr.jpeg';
 import jwt from '../image/jwt.webp';
 import chatappdj from '../image/chatappdj.jpg'
 import chatapprj from '../image/chatapprj.jpeg'
+import { Link } from 'react-router-dom';
+
+import { FaExternalLinkAlt } from "react-icons/fa";
+
+
 function Project(){
     return (
         <section id="project">
@@ -19,10 +23,11 @@ function Project(){
                             <div id='head'>
                                 <img src={chatbot} alt="" width={180} height={130} />
                             </div>
-                            {/* <div id='body'>
-                                <small>Chatbot using NLP and Neural Networks</small>
+                            <div id='body'>
+                                <p>Chatbot </p>
+                                <Link><FaExternalLinkAlt /></Link>
                             </div>
-                            <div id='footer'>
+                            {/* <div id='footer'>
                                 <Link id='git'>Github</Link>
                                 <Link id='liv'>Live</Link>
                             </div> */}
