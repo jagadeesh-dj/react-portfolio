@@ -223,7 +223,7 @@ function Skills(){
                                         <HiBadgeCheck />
                                     </div>
                                     <div id='data'>
-                                        <h5>React</h5>
+                                        <h5>Feature Engineering</h5>
                                         <div id='status'>
                                             <small>Intermediate</small>
                                         </div>
