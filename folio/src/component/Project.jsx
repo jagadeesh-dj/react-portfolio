@@ -23,7 +23,7 @@ function Project(){
                             <div id='head'>
                                 <img src={chatbot} alt="" width={180} height={130} />
                             </div>
-                            <div id='body'>
+                            <div>
                                 <p>Chatbot </p>
                                 <Link><FaExternalLinkAlt /></Link>
                             </div>
