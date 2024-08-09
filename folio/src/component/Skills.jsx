@@ -10,7 +10,7 @@ function Skills(){
                     <h1>Skills</h1>
                 </div>
                 <div id='content2'>
-                    <div id='skill-card' data-aos="fade" data-aos-delay="100" data-aos-easing="ease-in-out">
+                    <div id='skill-card' data-aos="fade" data-aos-delay="100" data-aos-easing="ease">
                         <div id='heading'>
                             <h2>Frontend Development</h2>
                         </div>
@@ -75,20 +75,12 @@ function Skills(){
                                     </div>
                                 </div>
                                 <div id='r'>
-                                    {/* <div id='badge'>
-                                        <HiBadgeCheck />
-                                    </div>
-                                    <div id='data'>
-                                        <h5>JavaScript</h5>
-                                        <div id='status'>
-                                            <small>Intermediate</small>
-                                        </div>
-                                    </div> */}
+                                    
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div id='skill-card' data-aos="fade" data-aos-delay="300" data-aos-easing="ease-in-out">
+                    <div id='skill-card' data-aos="fade" data-aos-delay="300" data-aos-easing="ease">
                         <div id='heading'>
                             <h2>Backend Development</h2>
                         </div>
@@ -165,7 +157,7 @@ function Skills(){
                             </div>
                         </div>  
                     </div>
-                    <div id='skill-card' data-aos="fade" data-aos-delay="600" data-aos-easing="ease-in-out">
+                    <div id='skill-card' data-aos="fade" data-aos-delay="600" data-aos-easing="ease">
                         <div id='heading'>
                             <h2>AI Development</h2>
                         </div>
