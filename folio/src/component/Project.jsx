@@ -23,7 +23,7 @@ function Project(){
                             <div id='head'>
                                 <img src={chatbot} alt="" width={180} height={130} />
                             </div>
-                            <div>
+                            <div id='body'>
                                 <p>Chatbot </p>
                                 <Link to='https://github.com/jagadeesh-dj/chatbot-'><FaExternalLinkAlt /></Link>
                             </div>
