@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.27f17cdd.css",
-    "main.js": "/react-portfolio/static/js/main.bdb971fc.js",
+    "main.css": "/react-portfolio/static/css/main.60db5b89.css",
+    "main.js": "/react-portfolio/static/js/main.18e1f4a8.js",
     "static/js/453.65642199.chunk.js": "/react-portfolio/static/js/453.65642199.chunk.js",
+    "static/media/JAGADEESH.pdf": "/react-portfolio/static/media/JAGADEESH.ec6de4cdb738f36b8ad8.pdf",
     "static/media/chatapprj.jpeg": "/react-portfolio/static/media/chatapprj.a4682dbcf1be25e40cc9.jpeg",
     "static/media/chatbot.webp": "/react-portfolio/static/media/chatbot.ecaf662c576b02abd236.webp",
     "static/media/images.png": "/react-portfolio/static/media/images.31d144019ec886ebf35b.png",
     "static/media/jagadeesh d-modified.png": "/react-portfolio/static/media/jagadeesh d-modified.8e203429d8ef08ecd665.png",
+    "static/media/task.jpg": "/react-portfolio/static/media/task.0f3b0986c4870e0ad829.jpg",
     "static/media/chatappdj.jpg": "/react-portfolio/static/media/chatappdj.5302df38a953e0682ec2.jpg",
-    "static/media/task.webp": "/react-portfolio/static/media/task.18b99ae799bc19b4da35.webp",
-    "static/media/jwt.webp": "/react-portfolio/static/media/jwt.8ae633cff3782ff58979.webp",
+    "static/media/auth.jpg": "/react-portfolio/static/media/auth.e7496b760f4f0d991544.jpg",
     "index.html": "/react-portfolio/index.html",
-    "main.27f17cdd.css.map": "/react-portfolio/static/css/main.27f17cdd.css.map",
-    "main.bdb971fc.js.map": "/react-portfolio/static/js/main.bdb971fc.js.map",
+    "main.60db5b89.css.map": "/react-portfolio/static/css/main.60db5b89.css.map",
+    "main.18e1f4a8.js.map": "/react-portfolio/static/js/main.18e1f4a8.js.map",
     "453.65642199.chunk.js.map": "/react-portfolio/static/js/453.65642199.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27f17cdd.css",
-    "static/js/main.bdb971fc.js"
+    "static/css/main.60db5b89.css",
+    "static/js/main.18e1f4a8.js"
   ]
 }
