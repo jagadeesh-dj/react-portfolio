@@ -23,15 +23,9 @@ function Project(){
                             <div id='head'>
                                 <img src={chatbot} alt="" width={180} height={130} />
                             </div>
-<<<<<<< HEAD
-                            <div id='body'>
-                                <small>Chatbot </small>
-                                <Link to='https://github.com/jagadeesh-dj/chatbot-'><FaExternalLinkAlt /></Link>
-=======
                             <div>
                                 <p>Chatbot </p>
-                                <Link><FaExternalLinkAlt /></Link>
->>>>>>> 90b4fbd95c3e9c5b765e846d925a1da9e35f6354
+                                <Link to='https://github.com/jagadeesh-dj/chatbot-'><FaExternalLinkAlt /></Link>
                             </div>
                           
                         </div>
