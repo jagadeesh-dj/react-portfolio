@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.60db5b89.css",
-    "main.js": "/react-portfolio/static/js/main.1cfb8b59.js",
+    "main.css": "/react-portfolio/static/css/main.3923429f.css",
+    "main.js": "/react-portfolio/static/js/main.cd594c5a.js",
     "static/js/453.65642199.chunk.js": "/react-portfolio/static/js/453.65642199.chunk.js",
     "static/media/JAGADEESH.pdf": "/react-portfolio/static/media/JAGADEESH.ec6de4cdb738f36b8ad8.pdf",
     "static/media/chatapprj.jpeg": "/react-portfolio/static/media/chatapprj.a4682dbcf1be25e40cc9.jpeg",
@@ -12,12 +12,12 @@
     "static/media/chatappdj.jpg": "/react-portfolio/static/media/chatappdj.5302df38a953e0682ec2.jpg",
     "static/media/auth.jpg": "/react-portfolio/static/media/auth.e7496b760f4f0d991544.jpg",
     "index.html": "/react-portfolio/index.html",
-    "main.60db5b89.css.map": "/react-portfolio/static/css/main.60db5b89.css.map",
-    "main.1cfb8b59.js.map": "/react-portfolio/static/js/main.1cfb8b59.js.map",
+    "main.3923429f.css.map": "/react-portfolio/static/css/main.3923429f.css.map",
+    "main.cd594c5a.js.map": "/react-portfolio/static/js/main.cd594c5a.js.map",
     "453.65642199.chunk.js.map": "/react-portfolio/static/js/453.65642199.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60db5b89.css",
-    "static/js/main.1cfb8b59.js"
+    "static/css/main.3923429f.css",
+    "static/js/main.cd594c5a.js"
   ]
 }
