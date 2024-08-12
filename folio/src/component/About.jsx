@@ -36,16 +36,16 @@ function About(){
                             </div>
                         </div>
                         <div id='card' data-aos="fade-down" data-aos-delay="900" data-aos-easing="ease-in-out">
-                                <div id='icon'>
-                                    <SlBadge />
-                                </div>
-                                <div id='content'>
-                                    <h3>Internship</h3>
-                                    <h5>Python Intern</h5>
-                                    <p>Shiash Info Solutions</p>
-                                    <h5>Machine Learning</h5>
-                                    <p>Cluster Wings Technologies</p>
-                                </div>
+                            <div id='icon'>
+                                <SlBadge />
+                            </div>
+                            <div id='content'>
+                                <h3>Internship</h3>
+                                <h5>Python Intern</h5>
+                                <p>Shiash Info Solutions</p>
+                                <h5>Machine Learning</h5>
+                                <p>Cluster Wings Technologies</p>
+                            </div>
                             
                         </div>
                         {/* <div id='card' data-aos="fade" data-aos-delay="400" data-aos-easing="ease-in-out">

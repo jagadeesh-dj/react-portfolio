@@ -70,7 +70,7 @@ function Skills(){
                                     <div id='data'>
                                         <h5>React</h5>
                                         <div id='status'>
-                                            <small>Intermediate</small>
+                                            <small>Beginner</small>
                                         </div>
                                     </div>
                                 </div>
@@ -104,7 +104,7 @@ function Skills(){
                                     <div id='data'>
                                         <h5>Java</h5>
                                         <div id='status'>
-                                            <small>Intermediate</small>
+                                            <small>Beginner</small>
                                         </div>
                                     </div>
                                 </div>
@@ -150,7 +150,7 @@ function Skills(){
                                     <div id='data'>
                                         <h5>AWS Services</h5>
                                         <div id='status'>
-                                            <small>Intermediate</small>
+                                            <small>Beginner</small>
                                         </div>
                                     </div>
                                 </div>

@@ -5,7 +5,10 @@ import { FaLinkedinIn } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
 import resume from './JAGADEESH.pdf'
+
+
 function Home(){
+
     return (
         <section id="home">
            <div className='page1'>

@@ -11,8 +11,29 @@ import { LuUser2 } from "react-icons/lu";
 import { PiBook } from "react-icons/pi";
 import { IoSettingsOutline } from "react-icons/io5";
 import { LuMessageCircle } from "react-icons/lu";
+import { MdOutlineDarkMode } from "react-icons/md";
+import { MdOutlineLightMode } from "react-icons/md";
+
+import { useState } from 'react';
 
 function App() {
+
+  const [DarkTheme,setDarkTheme]=useState(false)
+
+  const Toggle=(e)=>{
+    e.preventDefault();
+    document.body.classList.toggle('dark')
+
+    if (document.body.getAttribute('class')==='dark'){
+      setDarkTheme(true)
+    }
+    else{
+      setDarkTheme(false)
+    }
+
+  }
+
+
   const ScrollEvent = (id) => () => {
     const element = document.getElementById(id);
     if (element) {
@@ -23,9 +44,7 @@ function App() {
   return (
       <div>
         <nav className='navbar'>
-          {/* <div id='logo'>
-            <h3>jaga</h3>
-          </div> */}
+
           <div id='menus'>
             <div>
               <Link to='/' onClick={ScrollEvent('home')}><IoHomeOutline /></Link>
@@ -41,6 +60,9 @@ function App() {
             </div>
             <div>
               <Link to='#contact' onClick={ScrollEvent('contact')}><LuMessageCircle /></Link>
+            </div>
+            <div>
+              { DarkTheme ?  (<Link onClick={Toggle} ><MdOutlineLightMode /></Link>) :(<Link onClick={Toggle} ><MdOutlineDarkMode /></Link>)  }
             </div>
           </div>
         </nav>
